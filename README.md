@@ -8,7 +8,7 @@ Summarizing transcripts of such videos automatically allows us to quickly look o
 
 ## How it Works
 
-![Youtube Summarizer](https://github.com/somanyadav/Youtube-Summariser/blob/main/structure.JPG)
+![Youtube Summarizer]((https://github.com/GowthamMahadikar/Youtube-Summirization/blob/main/structure.JPG))
 
 
 ## App Features
